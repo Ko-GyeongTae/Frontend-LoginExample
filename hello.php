@@ -3,7 +3,7 @@
 <html lang="ko">
   <head>
     <meta charset="utf-8">
-    <title>로그인</title>
+    <title>PHP | LOGIN</title>
     <style>
       body { font-family: sans-serif; font-size: 14px; }
       input, button { font-family: inherit; font-size: inherit; }
